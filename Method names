@@ -1,0 +1,1 @@
+Arrays.sort(mat1,(a,b)->Integer.compare(a[c],b[c]));---------lambda function a,b are the rows selected
